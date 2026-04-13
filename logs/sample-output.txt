@@ -1,0 +1,6 @@
+Registry Persistence Detected
+{}
+Scheduled Task Persistence Detected
+{}
+Service Persistence Detected
+{}
